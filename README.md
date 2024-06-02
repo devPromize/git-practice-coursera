@@ -1,1 +1,1 @@
-# git-practice-coursera
+Coursera Git practice
